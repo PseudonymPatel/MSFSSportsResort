@@ -1,4 +1,0 @@
-C:\Applications\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" C:\Users\Sheen\Documents\MSFSSportsResort
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs

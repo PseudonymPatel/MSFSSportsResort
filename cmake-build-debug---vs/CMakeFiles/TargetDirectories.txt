@@ -1,5 +1,0 @@
-C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/CMakeFiles/MSFSSportsResort.dir
-C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/CMakeFiles/edit_cache.dir
-C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/CMakeFiles/rebuild_cache.dir
-C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/src/CMakeFiles/edit_cache.dir
-C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/src/CMakeFiles/rebuild_cache.dir
