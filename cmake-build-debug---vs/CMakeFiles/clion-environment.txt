@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@C:\Applications\Visual Studio 2019
+Options: msvc.arch=amd64
+
+Options:

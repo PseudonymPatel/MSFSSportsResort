@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MSFSSportsResort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MSFSSportsResort">
+				<Option output="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/MSFSSportsResort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/Sheen/Documents/MSFSSportsResort/includes"/>
+					<Add directory="C:/Users/Sheen/Documents/MSFSSportsResort/src"/>
+					<Add directory="C:\Applications\Visual Studio 2019\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Applications\Visual Studio 2019\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 MSFSSportsResort"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MSFSSportsResort/fast">
+				<Option output="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs/MSFSSportsResort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/Sheen/Documents/MSFSSportsResort/includes"/>
+					<Add directory="C:/Users/Sheen/Documents/MSFSSportsResort/src"/>
+					<Add directory="C:\Applications\Visual Studio 2019\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Applications\Visual Studio 2019\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 MSFSSportsResort/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Sheen/Documents/MSFSSportsResort/cmake-build-debug---vs"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sheen\Documents\MSFSSportsResort\cmake-build-debug---vs\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/main.cpp">
+			<Option target="MSFSSportsResort"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/scHandler.cpp">
+			<Option target="MSFSSportsResort"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/scHandler.h">
+			<Option target="MSFSSportsResort"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/wiimoteHandlers.cpp">
+			<Option target="MSFSSportsResort"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/wiimoteHandlers.h">
+			<Option target="MSFSSportsResort"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Sheen/Documents/MSFSSportsResort/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
